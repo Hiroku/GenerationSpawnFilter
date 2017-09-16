@@ -18,6 +18,7 @@ import com.hiroku.generationspawnfilter.listener.SpawnListener;
 		name = "Generation Spawn Filter",
 		version = "1.0.0",
 		authors = "Hiroku", 
+		description = "Allows specification of which generations of Pokémon may spawn in what world. ",
 		dependencies = @Dependency(id = "pixelmon")
 )
 public class GenerationSpawnFilter
